@@ -1,0 +1,7 @@
+{
+  "name": "Roam - Mobile Rental App",
+  "description": "A premium mobile-first experience for finding homes and rooms for rent.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
